@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "dnSpy.Extension.HoLLy": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": ".\\dnSpy.exe",
+      "commandLineArgs": "--extension-directory \"..\\..\\..\\..\\..\\..\\dnSpy.Extension.HoLLy\\bin\\Debug\\net6.0-windows\"",
+      "workingDirectory": "$(SolutionDir)dnSpy\\dnSpy\\dnSpy\\bin\\Debug\\net6.0-windows"
+    }
+  }
+}
