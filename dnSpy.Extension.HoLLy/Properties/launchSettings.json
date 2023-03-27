@@ -3,7 +3,7 @@
     "dnSpy.Extension.HoLLy": {
       "commandName": "Project"
     },
-    "Profile 1": {
+    "Debug dnSpy": {
       "commandName": "Executable",
       "executablePath": ".\\dnSpy.exe",
       "commandLineArgs": "--extension-directory \"..\\..\\..\\..\\..\\..\\dnSpy.Extension.HoLLy\\bin\\Debug\\net6.0-windows\"",

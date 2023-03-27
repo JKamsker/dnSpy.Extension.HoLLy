@@ -2,7 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugFramework>net6.0-windows</ActiveDebugFramework>
-    <ActiveDebugProfile>Profile 1</ActiveDebugProfile>
+    <ActiveDebugProfile>Debug dnSpy</ActiveDebugProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net48|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
